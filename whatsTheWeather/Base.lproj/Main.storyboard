@@ -93,7 +93,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="UITextFrield" destination="LiP-bT-LV4" id="ROY-sQ-iWR"/>
                         <outlet property="cityTextField" destination="LiP-bT-LV4" id="BNu-zl-iEt"/>
                         <outlet property="resultLabel" destination="pBL-XU-tUy" id="cj2-tw-jxv"/>
                     </connections>
